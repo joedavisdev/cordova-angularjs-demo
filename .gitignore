@@ -1,0 +1,6 @@
+# Temp files
+*.swp
+*.tmp
+
+# Project temporaries
+www/bower_components/
